@@ -1,6 +1,6 @@
 <h1 align="center";id="bioinformatic-tool-compendium-btc-">Biobi</h1>
 <p style="text-align: center;">
-  <img src="DNAobi.png" alt="biobi logo" width="200" height="100">
+  <img src="DNAobi.png" alt="biobi logo">
 </p>
 
 <p align="center";id="bioinformatic-tool-compendium-btc-">A Bioinformatics Tool Compendium</p>
