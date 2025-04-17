@@ -1,4 +1,4 @@
-<p align="center"><img src="DNAobi.png" alt="biobi logo" width="150"></p>
+<p align="center"><img src="assets/DNAobi.png" alt="biobi logo" width="150"></p>
 <h1 align="center" id="bioinformatic-tool-compendium-btc-">Biobi</h1>
 
 <p align="center";id="bioinformatic-tool-compendium-btc-">A Bioinformatics Tool Compendium</p>
