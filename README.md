@@ -1,7 +1,6 @@
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px; margin-top: 50px;">
-  <img src="DNAobi.png" alt="biobi logo" width="80">
-  <h1 id="bioinformatic-tool-compendium-btc-" style="margin: 0;">Biobi</h1>
-</div>
+<p align="center"><img src="DNAobi.png" alt="biobi logo" width="150"></p>
+<h1 align="center" id="bioinformatic-tool-compendium-btc-">Biobi</h1>
+
 <p align="center";id="bioinformatic-tool-compendium-btc-">A Bioinformatics Tool Compendium</p>
 <p align="center">$^{\color{#3BBB27}\textsf{web}}$ <sup>= web-based</sup> &nbsp;&nbsp;&nbsp;&nbsp; $^{\color{#FF0000}\textsf{app}}$ <sup>= local install</sup> &nbsp;&nbsp;&nbsp;&nbsp; $^{\color{#D29922}\textsf{cli}}$ <sup>= command-line</sup></p>
 <h2 id="databases">Databases</h2>
