@@ -1,4 +1,8 @@
 <h1 align="center";id="bioinformatic-tool-compendium-btc-">Biobi</h1>
+<p style="text-align: center;">
+  <img src="DNAobi.png" alt="biobi logo" width="200" height="100">
+</p>
+
 <p align="center";id="bioinformatic-tool-compendium-btc-">A Bioinformatics Tool Compendium</p>
 
 <p align="center">$^{\color{#3BBB27}\textsf{web}}$ <sup>= web-based</sup> &nbsp;&nbsp;&nbsp;&nbsp; $^{\color{#FF0000}\textsf{app}}$ <sup>= local install</sup> &nbsp;&nbsp;&nbsp;&nbsp; $^{\color{#D29922}\textsf{cli}}$ <sup>= command-line</sup></p>
