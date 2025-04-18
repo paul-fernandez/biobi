@@ -301,4 +301,5 @@ https://cistem.org/
 
 https://atgpr.dbcls.jp/
 
-https://atgpr.dbcls.jp/
+<details><summary><b><a href="https://atgpr.dbcls.jp/">ATGpr</a></b> $^{\color{#3BBB27}\textsf{web}}$ | A program for identifying the initiation codons in cDNA sequences<br></summary><code></code></details>
+
